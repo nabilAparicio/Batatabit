@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="41" height="25">
+<g style="fill:black;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1;fill-rule:nonzero;fill:none;">
+<g style="fill:#FFC250;">
+  <path d="M23.6785 20.2905C30.1018 22.2884 40.4763 20.2465 40.5685 11.3487C40.6606 2.45065 29.5884 7.75108 29.5884 7.75108L23.6785 20.2905Z"/>
+</g>
+<g style="fill:#FFD064;">
+  <path d="M37.4454 6.35634C32.9624 5.58791 29.5577 11.5303 25.7908 17.7291C22.0239 23.9278 12.2148 26.3848 5.94727 21.172C-0.320286 15.9591 -2.97291 6.82937 4.72262 1.38363C12.4181 -4.06212 17.222 8.30144 23.847 8.64128C30.4718 8.98113 30.5202 4.055 37.4454 6.35634Z"/>
+</g>
+<g style="fill:#FFE19D;" transform="matrix(-1 0 0 1 5.37188 11.6257)">
+  <ellipse cx="0" cy="0" rx="1.96745" ry="1.96809"/>
+</g>
+<g style="fill:#FFE19D;" transform="matrix(-1 0 0 1 9.1428 13.1012)">
+  <circle cx="0" cy="0" r="1.47559"/>
+</g>
+<g style="fill:#FFE19D;" transform="matrix(-1 0 0 1 6.51953 15.0694)">
+  <circle cx="0" cy="0" r="1.14768"/>
+</g>
+</g>
+</svg>
