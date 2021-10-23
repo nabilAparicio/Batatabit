@@ -134,7 +134,7 @@ main {
 }
 .main-exchange-container p {
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   font-size: 1.4rem;
   font-weight: 500;
   line-height: 1.6rem;
@@ -142,6 +142,7 @@ main {
   margin: 0 auto;
 }
 .main-currency-table {
+  scroll-snap-align: center;
   width: 70%;
   min-width: 235px;
   max-width: 500px;
@@ -156,7 +157,16 @@ main {
   line-height: 2.3rem;
   color: var(--bitcoin-orange);
 }
-.currency-table--container {
+.main-tables-container {
+  margin-top: 30px;
+  display: flex;
+  gap: 15px;
+  height: auto;
+  overflow-x: scroll;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
+}
+.currency-table-container {
   width: 90%;
   min-width: 230px;
   max-width: 300px;
